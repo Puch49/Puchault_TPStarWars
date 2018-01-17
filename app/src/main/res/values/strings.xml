@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Puchault_TP_final</string>
+    <string name="activity_main">home page</string>
+
+    <string name="titreMainActivity">Star Wars</string>
+    <string name="activity_characters">List of characters</string>
+    <string name="activity_people">peoples</string>
+    <string name="welcome">welcome </string>
+    <string name="perso">StarWars Characters </string>
+    <string name="planet">StarWars Planets </string>
+    <string name="no_character_found">No people found </string>
+    <string name="name_error">error on writing name </string>
+    <string name="not_implemented">Not Implemented yet</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="peopleName">Name : </string>
+    <string name="peopleMass">Weight : </string>
+    <string name="peopleHair">Hair color : </string>
+    <string name="peopleSkin">Skin : </string>
+    <string name="peopleEye">Eyes : </string>
+    <string name="peopleBirth">Date of birth : </string>
+    <string name="peopleGender">Gender : </string>
+    <string name="peopleHeight">Height : </string>
+</resources>
